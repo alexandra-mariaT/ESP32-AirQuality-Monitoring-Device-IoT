@@ -3,7 +3,7 @@
 ![Dashboard Preview](assets/dashboard.png)
 
 ### 🚀 Quick Summary
-IoT system built for the **Inov8 UMFST** competition that monitors indoor air quality. It sends data from an **ESP32** to a **Node-RED** dashboard via **MQTT**.
+IoT system built for the **Inov8 UMFST December 2025 Edition** competition that monitors indoor air quality. It sends data from an **ESP32** to a **Node-RED** dashboard via **MQTT**.
 
 ### 🛠️ Hardware & Tech
 * **Microcontroller:** ESP32
